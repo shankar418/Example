@@ -1,0 +1,46 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
+	(paper "A4")
+	(title_block
+		(date "15 nov 2012")
+	)
+	(lib_symbols)
+	(text "VNIT Nagpur"
+		(exclude_from_sim no)
+		(at 185.166 176.784 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "634e693f-8d09-470e-81ed-5de87a86dd25")
+	)
+	(text "Shankar"
+		(exclude_from_sim no)
+		(at 183.642 173.736 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "64cc70c4-fee2-4304-8e4b-308d79098bd7")
+	)
+	(text "ABCD"
+		(exclude_from_sim no)
+		(at 184.15 169.418 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9e5a6e11-4704-4470-9d6a-86593a96c5aa")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
