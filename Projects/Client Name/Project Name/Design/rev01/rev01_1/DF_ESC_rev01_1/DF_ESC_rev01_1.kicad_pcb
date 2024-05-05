@@ -8,11 +8,11 @@
 	)
 	(paper "A3")
 	(title_block
-		(title "Example project")
-		(date "2024-05-05")
-		(company "Shankar PCB")
-		(comment 3 "shankar418@outlook.com")
-		(comment 4 "Shankar Aenagandula")
+		(title "Title of the Project")
+		(date "2024-01-02")
+		(company "Fresu Electronics LLC")
+		(comment 3 "info@dariofresu.com")
+		(comment 4 "Dario Fresu")
 	)
 	(layers
 		(0 "F.Cu" signal)
