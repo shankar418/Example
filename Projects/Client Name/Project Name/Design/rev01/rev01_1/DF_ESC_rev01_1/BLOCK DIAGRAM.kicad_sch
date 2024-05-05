@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "def2d175-6c4e-43bd-99cd-4cd84ba6bae5")
+	(uuid "c052ea6c-dec4-4231-8c20-6b0d4fbd2b33")
 	(paper "A4")
 	(title_block
 		(title "BLOCK DIAGRAM")
@@ -1124,6 +1124,17 @@
 			)
 		)
 		(uuid "693b44bb-f9b9-49a4-981b-04c34335f083")
+	)
+	(text "0-60V"
+		(exclude_from_sim no)
+		(at 55.88 39.37 0)
+		(effects
+			(font
+				(size 3 3)
+				(bold yes)
+			)
+		)
+		(uuid "791c192b-3e76-43f2-b7a0-be6d3306fa34")
 	)
 	(text "MCU"
 		(exclude_from_sim no)
